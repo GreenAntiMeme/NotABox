@@ -12,7 +12,7 @@ var app = new function() {
         name: "3_Thalia",
         color: "b816ad",
         uniqsnd: !0
-    }{
+    },{
         name: "4_Calliope",
         color: "b816ad",
         uniqsnd: !0
