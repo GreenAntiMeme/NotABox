@@ -12,6 +12,10 @@ var app = new function() {
         name: "3_Thalia",
         color: "b816ad",
         uniqsnd: !0
+    }{
+        name: "4_Calliope",
+        color: "b816ad",
+        uniqsnd: !0
     }], this.bonusarray = [];
     for (var n = 0, o = this.animearray.length; n < o; n++) {
 		var a = this.animearray[n].name;
